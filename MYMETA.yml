@@ -22,4 +22,4 @@ requires:
   IO::All: 0
   Smart::Comments: 0
   Term::ProgressBar::Simple: 0
-version: 0.27
+version: 0.28
