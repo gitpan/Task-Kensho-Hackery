@@ -1,5 +1,5 @@
 ---
-abstract: 'Script Hackery'
+abstract: 'A Glimpse at an Enlightened Perl: {{ $config_data->{$module}{description} }}'
 author:
   - 'Chris Prather <chris@prather.org>'
 build_requires:
@@ -42,7 +42,7 @@ resources:
   bugtracker: https://github.com/EnlightenedPerlOrganisation/task-kensho/issues
   homepage: https://github.com/EnlightenedPerlOrganisation/task-kensho
   repository: https://github.com/EnlightenedPerlOrganisation/task-kensho.git
-version: 0.34002
+version: 0.34003
 x_Dist_Zilla:
   perl:
     version: 5.019007
