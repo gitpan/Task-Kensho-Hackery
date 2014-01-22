@@ -4,8 +4,8 @@ package Task::Kensho::Hackery;
 BEGIN {
   $Task::Kensho::Hackery::AUTHORITY = 'cpan:PERIGRIN';
 }
-# git description: v0.34002-TRIAL-18-g78b0712
-$Task::Kensho::Hackery::VERSION = '0.34003'; # TRIAL
+# git description: v0.34003-TRIAL-12-g0df3775
+$Task::Kensho::Hackery::VERSION = '0.34004'; # TRIAL
 # ABSTRACT: A Glimpse at an Enlightened Perl: Script Hackery
 
 __END__
@@ -20,7 +20,7 @@ Task::Kensho::Hackery - A Glimpse at an Enlightened Perl: Script Hackery
 
 =head1 VERSION
 
-version 0.34003
+version 0.34004
 
 =head1 SYNOPSIS
 
