@@ -4,8 +4,8 @@ package Task::Kensho::Hackery;
 BEGIN {
   $Task::Kensho::Hackery::AUTHORITY = 'cpan:PERIGRIN';
 }
-# git description: v0.34003-TRIAL-12-g0df3775
-$Task::Kensho::Hackery::VERSION = '0.34004'; # TRIAL
+# git description: v0.34004-TRIAL-27-g5ba1a29
+$Task::Kensho::Hackery::VERSION = '0.35';
 # ABSTRACT: A Glimpse at an Enlightened Perl: Script Hackery
 
 __END__
@@ -20,7 +20,7 @@ Task::Kensho::Hackery - A Glimpse at an Enlightened Perl: Script Hackery
 
 =head1 VERSION
 
-version 0.34004
+version 0.35
 
 =head1 SYNOPSIS
 
@@ -96,12 +96,6 @@ regarding which modules you wish to install.
 The C<cpanm> client requires interactive mode to be enabled for this to work:
 
     cpanm --interactive Task-Kensho
-
-=head1 RELEASE SCHEDULE
-
-Starting with release 0.18, L<Task::Kensho> was moved to a monthly release
-cycle. This will facilitate a consistent schedule for upstream vendors
-to track the changes in L<Task::Kensho>.
 
 =head1 BUGS AND LIMITATIONS
 
