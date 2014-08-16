@@ -1,11 +1,8 @@
 use strict;
 use warnings;
 package Task::Kensho::Hackery;
-BEGIN {
-  $Task::Kensho::Hackery::AUTHORITY = 'cpan:PERIGRIN';
-}
-# git description: v0.35-30-gd0e3255
-$Task::Kensho::Hackery::VERSION = '0.36';
+# git description: v0.36-27-g29e36db
+$Task::Kensho::Hackery::VERSION = '0.37';
 # ABSTRACT: A Glimpse at an Enlightened Perl: Script Hackery
 
 __END__
@@ -20,7 +17,7 @@ Task::Kensho::Hackery - A Glimpse at an Enlightened Perl: Script Hackery
 
 =head1 VERSION
 
-version 0.36
+version 0.37
 
 =head1 SYNOPSIS
 
@@ -69,9 +66,9 @@ facilitates the ease and simplicity the distribution aims to achieve.
 
 =head1 RECOMMENDED MODULES
 
-=head2 L<Task::Kensho::Hackery>: Script Hackery
-
 =for stopwords whippitupitude Hackery
+
+=head2 L<Task::Kensho::Hackery>: Script Hackery
 
 These packages are included less for production work and more for whippitupitude. They reflect packages that people have found incredibly useful for prototyping and debugging before reducing down to a production script.
 
@@ -123,5 +120,25 @@ This software is copyright (c) 2008 by Chris Prather.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
+
+=head1 CONTRIBUTORS
+
+=for stopwords Karen Etheridge Leo Lapworth Chris Nehren
+
+=over 4
+
+=item *
+
+Karen Etheridge <ether@cpan.org>
+
+=item *
+
+Leo Lapworth <leo@cuckoo.org>
+
+=item *
+
+Chris Nehren <apeiron@cpan.org>
+
+=back
 
 =cut
