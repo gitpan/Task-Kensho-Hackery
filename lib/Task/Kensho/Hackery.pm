@@ -1,8 +1,8 @@
 use strict;
 use warnings;
 package Task::Kensho::Hackery;
-# git description: v0.36-27-g29e36db
-$Task::Kensho::Hackery::VERSION = '0.37';
+# git description: v0.37-29-g85de7d9
+$Task::Kensho::Hackery::VERSION = '0.38';
 # ABSTRACT: A Glimpse at an Enlightened Perl: Script Hackery
 
 __END__
@@ -17,7 +17,7 @@ Task::Kensho::Hackery - A Glimpse at an Enlightened Perl: Script Hackery
 
 =head1 VERSION
 
-version 0.37
+version 0.38
 
 =head1 SYNOPSIS
 
